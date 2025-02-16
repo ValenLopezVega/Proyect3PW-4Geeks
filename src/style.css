@@ -1,5 +1,12 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#excuse{
+    font-size: large;
+    font-weight: bold;
 }
